@@ -19,3 +19,7 @@ git add <file>
 ```
 git commit -m "commit message"
 ```
+
+```
+git add <file_1> <file_2> ...
+```
