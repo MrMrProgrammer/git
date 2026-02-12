@@ -43,3 +43,7 @@ git add -A
 for add all files.
 you can use this command to add all files instead of using git add for each file individually.
 
+```
+git show <commit hash>
+```
+for see commit changes in details
