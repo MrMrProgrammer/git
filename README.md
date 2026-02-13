@@ -70,3 +70,10 @@ git add -p
 ```
 for check each file
 
+```
+git mv <file>
+```
+
+```
+git rm file
+```
