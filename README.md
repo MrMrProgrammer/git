@@ -47,3 +47,26 @@ you can use this command to add all files instead of using git add for each file
 git show <commit hash>
 ```
 for see commit changes in details
+
+
+```
+git diff
+```
+
+```
+git diff --staged
+```
+
+```
+git diff <hash>
+```
+or
+```
+git diff <hash_1> <hash_2>
+```
+
+```
+git add -p
+```
+for check each file
+
