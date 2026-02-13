@@ -54,6 +54,15 @@ git diff
 ```
 
 ```
+git diff -u
+```
+
+```
+git diff -u <file_1> <file_2> > changes.diff
+git patch changes.txt < changes.diff
+```
+
+```
 git diff --staged
 ```
 
