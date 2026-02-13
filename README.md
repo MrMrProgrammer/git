@@ -86,3 +86,11 @@ git mv <file>
 ```
 git rm file
 ```
+---
+
+```
+git checkout <file>
+git restore <file>
+git restore --staged <file>
+git reset <file>
+```
