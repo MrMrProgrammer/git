@@ -106,3 +106,8 @@ git commit --amend
 ```
 git revert <git-hash>
 ```
+
+```
+git pull
+```
+for syncy local system with github/gitlab
