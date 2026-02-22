@@ -112,3 +112,16 @@ git revert <git-hash>
 git pull
 ```
 for syncy local system with github/gitlab
+
+
+‍‍‍```
+git branch
+git branch -v
+```
+
+```
+git branch <branch_name>
+```
+create new branch
+
+
