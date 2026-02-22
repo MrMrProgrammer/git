@@ -192,3 +192,9 @@ you can create issue on github and close this issues with one of these key words
 ```
 
 for example you can close issue #2 automatically when use one of these kew words + issue number in commit message
+
+
+```
+git push
+git pull
+```
