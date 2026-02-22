@@ -111,10 +111,11 @@ git revert <git-hash>
 ```
 git pull
 ```
+
 for syncy local system with github/gitlab
 
 
-‍‍‍```
+```
 git branch
 git branch -v
 ```
@@ -123,5 +124,22 @@ git branch -v
 git branch <branch_name>
 ```
 create new branch
+
+```
+git checkout <branch_name>
+```
+
+
+```
+git branch X
+git checkout X
+```
+
+```
+git checkout -b X
+```
+
+there are same. it is shortcut.
+
 
 
