@@ -138,8 +138,19 @@ git checkout X
 ```
 git checkout -b X
 ```
-
 there are same. it is shortcut.
 
+```
+git branch -d <branch_name>
+```
+for delete branch
 
 
+## Merge
+```
+git checkout main
+git merge <branch_name>
+```
+
+we have some kind of merge. one of them is `FastForvard`
+other one is `3Way`
