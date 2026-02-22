@@ -154,3 +154,17 @@ git merge <branch_name>
 
 we have some kind of merge. one of them is `FastForvard`
 other one is `3Way`
+
+
+```
+git branch -D <branch_name>
+```
+for delete branch that has unmerged commit
+
+
+## Git Log
+```
+git log --graph
+git log --oneline
+git log --graph --oneline
+```
