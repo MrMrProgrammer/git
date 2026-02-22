@@ -155,6 +155,11 @@ git merge <branch_name>
 we have some kind of merge. one of them is `FastForvard`
 other one is `3Way`
 
+```
+git merge --abort
+```
+used when we have conflict in merge process. for cancel merge
+
 
 ```
 git branch -D <branch_name>
