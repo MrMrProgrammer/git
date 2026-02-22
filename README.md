@@ -174,8 +174,21 @@ git log --oneline
 git log --graph --oneline
 ```
 
-
 ```
 git remote
 git remote -v
 ```
+
+---
+you can create issue on github and close this issues with one of these key words:
+
+```
+| Message       | Result     |
+| ------------- | ---------- |
+| `#2`          | Just links |
+| `Fixes #2`    | Closes     |
+| `Closes #2`   | Closes     |
+| `Resolves #2` | Closes     |
+```
+
+for example you can close issue #2 automatically when use one of these kew words + issue number in commit message
