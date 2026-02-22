@@ -173,3 +173,8 @@ git log --graph
 git log --oneline
 git log --graph --oneline
 ```
+
+```
+git remote
+git remote -v
+```
