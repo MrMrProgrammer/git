@@ -198,3 +198,35 @@ for example you can close issue #2 automatically when use one of these kew words
 git push
 git pull
 ```
+
+```
+git remote show origin
+```
+just get data about remote
+
+```
+git fetch
+git fetch --all
+```
+
+```
+git log origin/main
+```
+
+```
+git merge origin/main
+```
+
+```
+git remote update
+```
+
+```
+git fetch
+git merge origin/main
+```
+this commands equale to this command
+```
+git pull
+```
+
