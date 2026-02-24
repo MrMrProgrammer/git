@@ -229,3 +229,23 @@ this commands equale to this command
 ```
 git pull
 ```
+
+```
+git log --graph --oneline --all
+```
+for see logs in one line
+
+
+## Conflict
+when you have Conflict, you can use 3way merge
+```
+git merge --no-ff
+
+ff = fast forward
+```
+در این زمان باید ابتدا کانفلیکت را رفع کنیم و سپس مانند یک کامیت معمولی آن تغییرات رو کامیت کنیم
+
+
+fast forward
+یعنی بتونیم راحت تغییرات شاخه من رو بزاریم انتهای شاخه اصلی
+
